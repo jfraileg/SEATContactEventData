@@ -1,5 +1,5 @@
 {
-	"key": "<YOUR APPLICATION EXTENSION KEY HERE>",
+	"key": "<SEAT_Contacts_Entry>",
 	"type": "Event",
 	"filterExpressionEnabled": true,
 	"lang": {
@@ -10,7 +10,7 @@
 	},
 	"workflowApiVersion": "1.1",
 	"configurationArguments": {
-		"applicationExtensionKey": "<YOUR APPLICATION EXTENSION KEY HERE>"
+		"applicationExtensionKey": "<SEAT_Contacts_Entry>"
 	},
 	"wizardSteps": [
 		{"key": "selectDataExtensionId", "label": "Select DE"},
